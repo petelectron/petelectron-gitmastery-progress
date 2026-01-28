@@ -277,5 +277,14 @@
       "The main branch does not contain the expected commits."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1769597328.795909,
+    "completed_at": 1769597331.042717,
+    "comments": [
+      "You have successfully undone the merge of branch 'others'."
+    ],
+    "status": "Completed"
   }
 ]
