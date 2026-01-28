@@ -268,5 +268,14 @@
       "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1769597233.074305,
+    "completed_at": 1769597238.024152,
+    "comments": [
+      "The main branch does not contain the expected commits."
+    ],
+    "status": "Incomplete"
   }
 ]
